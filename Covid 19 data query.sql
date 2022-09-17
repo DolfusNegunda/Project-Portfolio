@@ -1,3 +1,4 @@
+Data Exploration
 -- Covid-19 Data (Feb 2020 - Apr 2021) [ourworldindata.org]
 
 Select location, continent, date, total_cases, new_cases, total_deaths, population
