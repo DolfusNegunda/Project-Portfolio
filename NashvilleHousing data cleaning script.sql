@@ -1,4 +1,4 @@
--- Data cleaning
+-- Data cleaning (Windows functions, Parsename, CharIndex, ISNULL, Substrings, Replace, Case statements, Self Joins)
 
 Select *
 From NashvilleHousing
